@@ -1,4 +1,10 @@
 body {
   background: blue; }
   body div {
-    color: red; }
+    color: red;
+    text-align: left; }
+
+section {
+  color: red; }
+  section p {
+    text-align: justify; }
